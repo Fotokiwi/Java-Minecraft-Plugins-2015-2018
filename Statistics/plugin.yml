@@ -1,0 +1,8 @@
+name: Statistics
+main: org.community.Statistics.Statistics
+version: 0.0.1
+author: Grundbaustein-eV
+commands:
+  stats:
+    description: Lists plugin details
+    usage: /<command>
