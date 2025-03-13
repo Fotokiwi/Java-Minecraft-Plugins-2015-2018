@@ -1,0 +1,8 @@
+name: FoodControl
+main: org.community.FoodControl.FoodControl
+version: 1.0.0
+author: TerraNetworkOrg
+commands:
+  foodcontrol:
+    description: Lists plugin details
+    usage: /<command>

@@ -1,0 +1,22 @@
+name: DungeonUtility
+main: org.community.DungeonUtility.DungeonUtility
+version: 0.0.1
+author: Grundbaustein e.V.
+softdepend: [My_Worlds]
+commands:
+  dungeonutility:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [du]
+  blockmode:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [blockmodus,bm]
+  edispenser:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [edis,ed]
+  spawnlimiter:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [limiter,sl]
