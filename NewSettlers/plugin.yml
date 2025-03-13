@@ -1,0 +1,80 @@
+name: NewSettlers
+main: org.community.newSettlers.newSettlers
+version: 3
+author: TerraNetworkOrg
+depend: [Vault,My_Worlds]
+commands:
+  siedler:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [settlers]
+  stadt:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [settlers]
+  ja:
+    description: Lists plugin details
+    usage: /<command>
+  nein:
+    description: Lists plugin details
+    usage: /<command>
+  handel:
+    description: Lists plugin details
+    usage: /<command>
+  notfall:
+    description: Lists plugin details
+    usage: /<command>
+  tempspawn:
+    description: Lists plugin details
+    usage: /<command>
+  me:
+    description: Emote
+    usage: /<command>
+  flüstern:
+    description: Flüstern
+    usage: /<command>
+  lc:
+    description: Lokaler Chat
+    usage: /<command>
+  sc:
+    description: Stadt Chat
+    usage: /<command>
+  gc:
+    description: Gruppen Chat
+    usage: /<command>
+  ac:
+    description: Admin Chat
+    usage: /<command>
+  mc:
+    description: Moderatoren Chat
+    usage: /<command>
+  schreien:
+    description: Hilfe Chat
+    usage: /<command>
+  hilfe:
+    description: Hilfe Chat
+    usage: /<command>
+  msg:
+    description: Hilfe Chat
+    usage: /<command>
+  chatname:
+    description: Change Chatname
+    usage: /<command>
+  shiproute:
+    description: Startet eine Schiffsroute
+    usage: /<command>
+  testshiproute:
+    description: Startet eine Schiffsroute
+    usage: /<command>
+  webui:
+    description: Registriert ein Passwort für das Java-GUI
+    usage: /<command>
+  seen:
+    description: Zeigt an, wann der Spieler zuletzt online war
+    usage: /<command>
+  global:
+    description: Trete dem globalen Chatkanal bei
+    usage: /<command>
+  toggleGlobal:
+    description: Zeige den globalen Chatkanal an / nicht an
+    usage: /<command>
