@@ -1,0 +1,15 @@
+name: EpicFighters
+main: org.community.EpicFighters.EpicFighters
+version: 0.0.1
+author: TerraNetworkOrg
+commands:
+  epicfighters:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [ef,fighters]
+  skill:
+    description: Lists plugin details
+    usage: /<command>
+  zauberstab:
+    description: Lists plugin details
+    usage: /<command>
