@@ -1,0 +1,19 @@
+name: FourWays
+main: org.community.fourWays.fourWays
+version: 0.1.0
+author: Grundbaustein eV
+commands:
+  fourways:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [fw]
+  beruf:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [job, level]
+  questmodus:
+    description: Lists plugin details
+    usage: /<command>
+  lieferung:
+    description: Lists plugin details
+    usage: /<command>
