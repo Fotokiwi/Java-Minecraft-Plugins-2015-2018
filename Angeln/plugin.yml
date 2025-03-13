@@ -1,0 +1,8 @@
+name: Angeln
+main: org.community.Angeln.Angeln
+version: 3
+author: JEDressler
+commands:
+  angeln:
+    description: Lists plugin details
+    usage: /<command>
