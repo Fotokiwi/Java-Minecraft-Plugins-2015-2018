@@ -1,0 +1,10 @@
+name: CustomRecipes
+main: org.community.CustomRecipes.CustomRecipes
+version: 0.0.1
+author: Scipione
+depend: [BookEnchant]
+commands:
+  recipe:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [du]

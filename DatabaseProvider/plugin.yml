@@ -1,0 +1,8 @@
+name: DatabaseProvider
+main: org.community.DatabaseProvider.DatabaseProvider
+version: 0.0.1
+author: Grundbaustein-eV
+commands:
+  database:
+    description: Lists plugin details
+    usage: /<command>
