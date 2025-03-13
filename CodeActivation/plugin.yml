@@ -1,0 +1,10 @@
+name: CodeActivation
+main: org.community.CodeActivation.CodeActivation
+version: 1.0.1
+author: TerraNetworkOrg
+depend: [Vault]
+commands:
+  codeactivation:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [ca,code]

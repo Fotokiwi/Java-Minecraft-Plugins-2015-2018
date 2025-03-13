@@ -1,0 +1,11 @@
+name: CrazyLabs
+main: org.community.CrazyLabs.CrazyLabs
+version: 0.0.1
+author: Grundbaustein-eV
+commands:
+  crazylabs:
+    description: Lists plugin details
+    usage: /<command>
+  maze:
+    description: Lists plugin details
+    usage: /<command>
