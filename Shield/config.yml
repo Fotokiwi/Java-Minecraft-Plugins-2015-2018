@@ -1,0 +1,14 @@
+autoregister:
+  DISPENSER: true
+  CHEST: true
+  FURNACE: false
+  WOODEN_DOOR: false
+  IRON_DOOR_BLOCK: false
+  FENCE_GATE: false
+  BREWING_STAND: false
+  TRAP_DOOR: false
+  BUTTON: false
+  PLATE: false
+Settings:
+  Saveintervall: 300
+  Admins: JEDressler,gottil,Buergermeister,NexOvis,Scipione,loopanyway

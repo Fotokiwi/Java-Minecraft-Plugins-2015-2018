@@ -1,0 +1,27 @@
+name: Shield
+main: org.community.Shield.Shield
+author: Scipione
+version: 0.3.0
+depend: [Vault]
+commands:
+  shield:
+    description: Lists plugin details
+    usage: /<command>
+  sremove:
+    description: Lists plugin details
+    usage: /<command>
+  sadmin:
+    description: Lists plugin details
+    usage: /<command>
+  smodify:
+    description: Lists plugin details
+    usage: /<command>
+  screate:
+    description: Lists plugin details
+    usage: /<command>
+  sinfo:
+    description: Lists plugin details
+    usage: /<command>
+  spersist:
+    description: Lists plugin details
+    usage: /<command>
