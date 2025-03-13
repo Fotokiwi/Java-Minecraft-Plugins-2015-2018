@@ -1,0 +1,13 @@
+name: MonsterSpawner
+main: org.community.monsterspawner.MonsterSpawner
+version: 0.0.1
+author: Scipione
+depend: [Vault]
+commands:
+  zone:
+    description: Lists plugin details
+    usage: /<command>
+  spawner:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [sp]
