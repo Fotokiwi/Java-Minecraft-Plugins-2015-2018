@@ -1,0 +1,17 @@
+name: Ambience
+main: org.community.ambience.Ambience
+version: 3.0.0
+author: Grundbaustein eV
+commands:
+  ambiente:
+    description: Lists plugin details
+    usage: /<command>
+  ambience:
+    description: Lists plugin details
+    usage: /<command>
+  sound:
+    description: Lists plugin details
+    usage: /<command>
+  zeit:
+    description: Lists plugin details
+    usage: /<command>
