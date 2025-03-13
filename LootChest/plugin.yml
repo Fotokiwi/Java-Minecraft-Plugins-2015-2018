@@ -1,0 +1,10 @@
+name: LootChest
+main: org.community.LootChest.LootChest
+version: 3.0.0
+author: schmiedi
+depend: [FourWays]
+commands:
+  LootChest:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [lc]

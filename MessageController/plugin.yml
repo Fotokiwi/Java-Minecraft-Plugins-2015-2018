@@ -1,0 +1,5 @@
+name: MessageController
+main: org.community.MessageController.MessageController
+version: 0.0.3
+author: Scipione
+depend: [Vault]
