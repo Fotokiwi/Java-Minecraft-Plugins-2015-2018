@@ -1,0 +1,10 @@
+name: PointsOfInterest
+main: org.community.pointsOfInterest.pointsOfInterest
+version: 3.0.0
+author: Scipione
+depend: [Vault, XPConomy]
+commands:
+  PointsOfInterest:
+    description: Lists plugin details
+    usage: /<command>
+    aliases: [poi,pointsofinterest]
